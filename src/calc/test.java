@@ -1,7 +1,7 @@
 package calc;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.*;
+//import org.junit.Test;
 
 public class test {
 	
